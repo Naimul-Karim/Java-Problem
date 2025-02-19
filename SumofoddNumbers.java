@@ -15,7 +15,7 @@ public class Assignment12 {
             }
             
         }
-        System.out.println("Sum of odd till 19 = "+sum);
+        System.out.println("Sum of odd numbers= "+sum);
     }
     
 }

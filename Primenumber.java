@@ -20,7 +20,7 @@ public class Primenumber {
                 break;
             }
         }
-        }
+        
         if (count == 0) {
             System.out.println(num + " is a prime number");
         } else {
@@ -28,5 +28,5 @@ public class Primenumber {
 
         }
     }
-
+    }
 }
